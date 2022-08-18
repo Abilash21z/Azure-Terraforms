@@ -1,5 +1,5 @@
 location          = "East US"
-resourceGroupName = "MyTerraformGroup"
+resourceGroupName = "myTerrafromGroup"
 tags = {
     environment = "test"
 }
