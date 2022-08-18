@@ -1,12 +1,12 @@
-variable "resourceGroupName" {
+variable " resourceGroupName" {
     type = string
 }
 
-variable "location" {
+variable " location " {
     type = string
 }
 
-variable "tags" {
+variable " tags " {
     type = map(any)
 }
  
