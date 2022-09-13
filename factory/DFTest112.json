@@ -1,0 +1,9 @@
+{
+	"name": "DFTest112",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a1089bb-4618-480e-a301-431972577c3d",
+		"tenantId": "5925bde5-b15f-4460-9426-f8acebe2d799"
+	}
+}
